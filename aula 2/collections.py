@@ -45,7 +45,9 @@ familia = ['maria','laura','marcelo','rodrigo','felipe']
 #familia.reverse() #inverte a posiçao da lista de traz para frente
 #print(familia)
 
-familia2 = familia.copy()
-familia.remove("felipe")
-print(familia)
-print(familia2)
+#familia2 = familia.copy() #copia uma lista
+#familia.remove("felipe")
+#print(familia)
+#print(familia2)
+
+print("Quantidade de dados na lista:", len(familia))
