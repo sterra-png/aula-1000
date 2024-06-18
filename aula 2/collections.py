@@ -50,4 +50,4 @@ familia = ['maria','laura','marcelo','rodrigo','felipe']
 #print(familia)
 #print(familia2)
 
-print("Quantidade de dados na lista:", len(familia))
+#print("Quantidade de dados na lista:", len(familia))
